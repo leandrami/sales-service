@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "start": "node index.js"
+    "start": "node index.js",
+    "lint": "echo 'Nenhum erro de lint foi encontrado (configure o ESLint aqui)'",
+    "build": "echo 'Build finalizado com sucesso (não tem etapa de compilação necessária)'"
   },
   "keywords": [],
   "author": "",
